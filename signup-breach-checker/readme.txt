@@ -1,7 +1,7 @@
 ﻿=== Signup Breach Checker ===
 Contributors: duplaja
 Donate link: https://www.wptechguides.com/donate/
-Tags: Gravity Forms, GF, Stripe, installments, layaway, subscriptions
+Tags: HaveIBeenPwned, breaches, user signup, notification
 Requires at least: 4.9.0
 Tested up to: 4.9.1
 Stable tag: trunk
